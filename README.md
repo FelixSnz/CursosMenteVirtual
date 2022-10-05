@@ -1,2 +1,2 @@
-# CursosMenteVirtual
-Este repositorio esta destinado a guardar el codigo usado en los cursos del canal "Mente Virtual"
+# Nucleo Virtual Recursos
+Codigo mostrado en mi canal de youtube "Nucleo Virtual" : https://youtube.com/channel/UCLkGEaVksdVZpWZjWMr-W2Q
